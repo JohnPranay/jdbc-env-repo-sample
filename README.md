@@ -1,4 +1,4 @@
-# Spring Cloud: JDBCEnvironmentRepository Sample Application [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=rashidi/jdbc-env-repo-sample)](https://dependabot.com)
+# Spring Cloud: JDBCEnvironmentRepository Sample Application
 Sample of [Spring Cloud Config Server][2] embedded application that uses database as backend for configuration properties.
 
 ## Background
